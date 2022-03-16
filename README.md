@@ -14,7 +14,7 @@
 ### 문제점
 환율정보를 실시간으로 가져올 수 있는 방법이 필요하다.  
 입력하는 숫자에 천단위 구분쉼표를 넣어주고자 방법을 찾아봤다. input의 type을 number에서 text로 바꾸니 구분쉼표가 들어가 화면에 표시되었다. 
-
+그러나 숫자를 입력한 박스 부분에는 구분쉼표가 넣어지지 않는다. 
 
 ## 출처
 https://stackoverflow.com/questions/64713481/every-jquery-javascript-number-formating-doesnt-work-parsed-out-of-range
